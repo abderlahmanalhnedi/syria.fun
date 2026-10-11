@@ -31,7 +31,7 @@ The axe matrix covers 12 representative pages × 2 widths × 2 languages × 2 th
 
 The Arabic mobile run measured FCP 1.9s, LCP 3.2s, TBT 0ms, and CLS 0.002. The English mobile run measured LCP 2.9s and CLS 0.09. The original Arabic mobile run was 79; responsive image sizing, a portrait hero derivative, fewer blocking style requests, local font subsets, early navigation layout, and avoiding an unnecessary Arabic text repaint improved the measured result. English also selects its layout direction and font preference before the bilingual text is loaded. Scores can vary with browser, machine, network, and hosting. The stated targets were reached for the measured homepage runs; no site-wide score guarantee is made.
 
-Local detailed reports, browser snapshots, and audit JSON are in the ignored `.qa/` directory. The reusable verification scripts are committed under `tools/`. The GitHub workflow checks regeneration, structure, and browser behavior; its remote execution status is separate from local checks.
+Local detailed reports, browser snapshots, and audit JSON are in the ignored `.qa/` directory. The reusable verification scripts are committed under `tools/`. The GitHub workflow checks regeneration, structure, and browser behavior. Remote CI was **not executed**: Git push was blocked by missing local GitHub credentials, so no remote branch or pull request was created. See the authenticated push instructions in `DEPLOYMENT.md`.
 
 ## Not executed / limits
 

@@ -4,6 +4,22 @@ Prepared domain: **syria.fun**. Repository: **abderlahmanalhnedi/syria.fun**. No
 
 النطاق المقصود `syria.fun` والمستودع `abderlahmanalhnedi/syria.fun`. لم تُغيَّر إعدادات النشر أو DNS أثناء التنفيذ. يلزم تأكيد صريح قبل النشر. سير عمل GitHub يفحص المشروع فقط.
 
+## Push and review before publication / رفع الفرع ومراجعته
+
+The implementation is committed locally on `feature/initial-website`. Local `main` contains only repository metadata and licensing, providing a review base for the empty remote repository. The attempted Git push failed because this machine has no configured GitHub credentials. No remote branches, pull request, or remote CI run were created.
+
+Git Credential Manager is installed on this machine. Authenticate interactively as the repository owner, then push both existing branches without force:
+
+```powershell
+cd "C:\Users\User\Nextcloud\VS code\syria.fun"
+git credential-manager github login --username abderlahmanalhnedi --browser
+git push -u origin main feature/initial-website
+```
+
+Open [the branch comparison](https://github.com/abderlahmanalhnedi/syria.fun/compare/main...feature/initial-website), choose **Create pull request**, and use **Create draft pull request**. Suggested title: **Build bilingual Syria.fun cultural discovery website**. Include the feature overview and executed results in `docs/QA.md`; review the verification workflow result. Creating a review PR does not activate GitHub Pages. Keep the website branch unmerged until publication is explicitly approved.
+
+المشروع محفوظ محلياً على `feature/initial-website`، وفرع `main` يحتوي ملفات التهيئة والترخيص فقط. فشل الرفع لعدم إعداد مصادقة GitHub على الجهاز؛ لم يُنشأ PR أو فحص CI بعيد. سجّل الدخول بالأمر أعلاه ثم ارفع الفرعين وافتح طلب مراجعة مسودة من رابط المقارنة. لا تدمج الفرع ولا تفعّل Pages قبل الموافقة الصريحة على النشر.
+
 ## After approval
 
 1. Review and merge the website PR into `main`. Do not force-push. If only local code exists, push the branch and review it before merging.
