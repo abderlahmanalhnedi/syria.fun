@@ -1,0 +1,30 @@
+name: Verify static website
+on:
+  push:
+    branches: [main, 'feature/**']
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: '3.11'
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: '22'
+      - run: python -m pip install -r tools/requirements-qa.txt
+      - run: python tools/build_pages.py && git diff --exit-code
+      - run: python tools/validate.py
+      - run: python -m playwright install --with-deps chromium
+      - name: Browser acceptance checks
+        run: |
+          python -m http.server 8000 --bind 127.0.0.1 > /tmp/syria-preview.log 2>&1 &
+          server_pid=$!
+          trap 'kill "$server_pid"' EXIT
+          curl --retry 10 --retry-connrefused --retry-delay 1 --fail --silent http://127.0.0.1:8000/ > /dev/null
+          python tools/browser_tests.py
