@@ -1,0 +1,598 @@
+{
+  "home": {
+    "ar": "الرئيسية",
+    "en": "Home"
+  },
+  "explore": {
+    "ar": "اكتشف سوريا",
+    "en": "Explore"
+  },
+  "food": {
+    "ar": "المطبخ السوري",
+    "en": "Food"
+  },
+  "culture": {
+    "ar": "ثقافة وحكايات",
+    "en": "Culture"
+  },
+  "quiz": {
+    "ar": "اختبر معلوماتك",
+    "en": "Quizzes"
+  },
+  "favorites": {
+    "ar": "المفضلة",
+    "en": "Favorites"
+  },
+  "about": {
+    "ar": "عن المشروع",
+    "en": "About"
+  },
+  "brandLine": {
+    "ar": "حكايات تستحق أن تُروى",
+    "en": "Stories worth discovering"
+  },
+  "skip": {
+    "ar": "انتقل إلى المحتوى",
+    "en": "Skip to content"
+  },
+  "navigation": {
+    "ar": "التنقل الرئيسي",
+    "en": "Main navigation"
+  },
+  "menu": {
+    "ar": "افتح قائمة التنقل",
+    "en": "Open navigation"
+  },
+  "closeMenu": {
+    "ar": "أغلق قائمة التنقل",
+    "en": "Close navigation"
+  },
+  "language": {
+    "ar": "Switch to English",
+    "en": "التبديل إلى العربية"
+  },
+  "theme": {
+    "ar": "تغيير المظهر",
+    "en": "Change theme"
+  },
+  "dark": {
+    "ar": "استخدم المظهر الداكن",
+    "en": "Use dark theme"
+  },
+  "light": {
+    "ar": "استخدم المظهر الفاتح",
+    "en": "Use light theme"
+  },
+  "eyebrow": {
+    "ar": "مكان واحد. حكايات لا تنتهي.",
+    "en": "ONE PLACE. COUNTLESS STORIES."
+  },
+  "homeTitle": {
+    "ar": "اكتشف سوريا بطريقة مختلفة",
+    "en": "Discover Syria a little differently"
+  },
+  "homeIntro": {
+    "ar": "من أزقة دمشق إلى ضفاف الفرات، ومن نكهة البيت إلى إيقاع الدبكة. اقترب من الأماكن والحكايات التي تجعل سوريا، سوريا.",
+    "en": "From Damascus lanes to the banks of the Euphrates. From the flavours of home to the rhythm of dabke. Meet the places and stories that make Syria, Syria."
+  },
+  "start": {
+    "ar": "ابدأ الاستكشاف",
+    "en": "Start exploring"
+  },
+  "heroPlace": {
+    "ar": "الجامع الأموي · دمشق",
+    "en": "UMAYYAD MOSQUE · DAMASCUS"
+  },
+  "heroDate": {
+    "ar": "صورة أرشيفية · ٢٠٠٨",
+    "en": "ARCHIVAL PHOTOGRAPH · 2008"
+  },
+  "scroll": {
+    "ar": "هناك الكثير لتكتشفه",
+    "en": "There is more to discover"
+  },
+  "journey": {
+    "ar": "اختر بداية حكايتك",
+    "en": "Where will your story begin?"
+  },
+  "journeyIntro": {
+    "ar": "مدينة، نكهة، أو حكاية. اتبع فضولك.",
+    "en": "A city, a flavour, or a story. Follow your curiosity."
+  },
+  "placesCount": {
+    "ar": "١٠ وجهات للتعرف إليها",
+    "en": "10 places to get to know"
+  },
+  "foodsCount": {
+    "ar": "١٠ نكهات من المائدة السورية",
+    "en": "10 flavours of the Syrian table"
+  },
+  "cultureCount": {
+    "ar": "٩ حكايات من التراث الحي",
+    "en": "9 stories of living heritage"
+  },
+  "quizCount": {
+    "ar": "٤ تحديات قصيرة وممتعة",
+    "en": "4 short, playful challenges"
+  },
+  "featuredLabel": {
+    "ar": "أماكن لها روح",
+    "en": "PLACES WITH A SOUL"
+  },
+  "featuredTitle": {
+    "ar": "كل مدينة، عالم صغير",
+    "en": "Every city, a world of its own"
+  },
+  "featuredIntro": {
+    "ar": "تعرّف إلى وجوه مختلفة من سوريا، حكاية تلو الأخرى.",
+    "en": "Get to know different sides of Syria, one story at a time."
+  },
+  "allPlaces": {
+    "ar": "جميع الوجهات",
+    "en": "All destinations"
+  },
+  "read": {
+    "ar": "اكتشف الحكاية",
+    "en": "Discover the story"
+  },
+  "save": {
+    "ar": "أضف إلى المفضلة",
+    "en": "Save to favorites"
+  },
+  "remove": {
+    "ar": "احذف من المفضلة",
+    "en": "Remove from favorites"
+  },
+  "saved": {
+    "ar": "تمت الإضافة إلى المفضلة",
+    "en": "Saved to favorites"
+  },
+  "removed": {
+    "ar": "تم الحذف من المفضلة",
+    "en": "Removed from favorites"
+  },
+  "quickView": {
+    "ar": "لمحة سريعة",
+    "en": "Quick view"
+  },
+  "close": {
+    "ar": "إغلاق",
+    "en": "Close"
+  },
+  "tableLabel": {
+    "ar": "على المائدة السورية",
+    "en": "AT THE SYRIAN TABLE"
+  },
+  "tableTitle": {
+    "ar": "نكهة تشبه البيت",
+    "en": "A taste that feels like home"
+  },
+  "tableIntro": {
+    "ar": "وصفات تتناقلها الأجيال، وتعيد كل عائلة حكايتها بطريقتها. اكتشف الأطباق، مكوناتها وحكاياتها.",
+    "en": "Recipes travel between generations, and every family tells them a little differently. Explore the dishes, ingredients, and stories."
+  },
+  "allFood": {
+    "ar": "اكتشف المطبخ السوري",
+    "en": "Explore Syrian food"
+  },
+  "cultureLabel": {
+    "ar": "تراث يعيش بيننا",
+    "en": "HERITAGE THAT LIVES ON"
+  },
+  "cultureTitle": {
+    "ar": "ليست الحكاية في الحجر وحده",
+    "en": "There is more to a place than its stones"
+  },
+  "cultureIntro": {
+    "ar": "في يد الصانع، وخطوة الدبكة، وقصة تُروى حول المائدة. تعرّف إلى الثقافة من تفاصيلها اليومية.",
+    "en": "In an artisan's hands, a dabke step, a story around the table. Discover culture through its everyday details."
+  },
+  "allCulture": {
+    "ar": "اقرأ الحكايات",
+    "en": "Explore the stories"
+  },
+  "challengeLabel": {
+    "ar": "استراحة للفضول",
+    "en": "A LITTLE CURIOSITY BREAK"
+  },
+  "challengeTitle": {
+    "ar": "كم تعرف عن سوريا؟",
+    "en": "How well do you know Syria?"
+  },
+  "challengeIntro": {
+    "ar": "خمسة أسئلة، وحكاية جديدة مع كل إجابة. جرّب تحدياً، وتعلّم شيئاً صغيراً.",
+    "en": "Five questions, with a story behind each answer. Try a challenge and learn something along the way."
+  },
+  "tryQuiz": {
+    "ar": "جرّب التحدي",
+    "en": "Try a challenge"
+  },
+  "factsTitle": {
+    "ar": "تفاصيل تبقى في الذاكرة",
+    "en": "Little things that stay with you"
+  },
+  "fact1": {
+    "ar": "النواعير ترفع ماء العاصي بقوة جريانه.",
+    "en": "Hama's norias lift Orontes water using the river's own flow."
+  },
+  "fact2": {
+    "ar": "في بصرى، يمنح البازلت الداكن العمارة طابعها المميز.",
+    "en": "In Bosra, dark basalt gives architecture its distinctive character."
+  },
+  "fact3": {
+    "ar": "الزجاج المنفوخ حرفة تنتقل بالممارسة داخل الورش.",
+    "en": "Glassblowing skills are passed on through hands-on workshop practice."
+  },
+  "exploreTitle": {
+    "ar": "سوريا، حكاية تلو الأخرى",
+    "en": "Syria, one story at a time"
+  },
+  "exploreIntro": {
+    "ar": "تجوّل بين المدن والساحل والأنهار والبادية. ابحث عن مكان، أو اختر البيئة التي تثير فضولك.",
+    "en": "Explore cities, coastlines, rivers, and desert heritage. Search for a place or follow the setting that draws you in."
+  },
+  "foodTitle": {
+    "ar": "مائدة غنية بالحكايات",
+    "en": "A table full of stories"
+  },
+  "foodIntro": {
+    "ar": "من أول لقمة إلى آخر قطعة حلوى، تعرّف إلى نكهات سورية ضمن تراث غذائي مشترك ومتنوّع.",
+    "en": "From the first bite to the last sweet, discover Syrian flavours within a varied, shared culinary heritage."
+  },
+  "culturePageTitle": {
+    "ar": "ثقافة تُروى وتُعاش",
+    "en": "Culture, told and lived"
+  },
+  "culturePageIntro": {
+    "ar": "حرف وموسيقى وعمارة وتقاليد. مجلة صغيرة عن تراث حيّ، بأصوات وتجارب متعددة.",
+    "en": "Craft, music, architecture, and traditions. A small journal of living heritage and many different experiences."
+  },
+  "search": {
+    "ar": "ابحث في سوريا.fun",
+    "en": "Search Syria.fun"
+  },
+  "searchHint": {
+    "ar": "مدينة، معلم، أكلة أو حكاية…",
+    "en": "A city, landmark, dish, or story…"
+  },
+  "searchTitle": {
+    "ar": "اتبع فضولك",
+    "en": "Follow your curiosity"
+  },
+  "searchIntro": {
+    "ar": "ابحث بالعربية أو الإنجليزية في الأماكن والأكلات والحكايات الثقافية.",
+    "en": "Search places, food, and cultural stories in Arabic or English."
+  },
+  "clear": {
+    "ar": "مسح البحث والفلاتر",
+    "en": "Clear search and filters"
+  },
+  "filter": {
+    "ar": "تصفية حسب الفئة",
+    "en": "Filter by category"
+  },
+  "all": {
+    "ar": "الكل",
+    "en": "All"
+  },
+  "destinations": {
+    "ar": "الأماكن",
+    "en": "Places"
+  },
+  "foods": {
+    "ar": "الأكلات",
+    "en": "Food"
+  },
+  "cultures": {
+    "ar": "الحكايات",
+    "en": "Stories"
+  },
+  "results": {
+    "ar": "نتائج",
+    "en": "results"
+  },
+  "noResults": {
+    "ar": "لم نجد ما تبحث عنه",
+    "en": "No matches this time"
+  },
+  "noResultsIntro": {
+    "ar": "جرّب كلمة أخرى أو امسح الفلاتر لاستكشاف المزيد.",
+    "en": "Try another word or clear the filters to explore more."
+  },
+  "heritage": {
+    "ar": "تراث وعمارة",
+    "en": "Heritage & architecture"
+  },
+  "central": {
+    "ar": "وسط سوريا",
+    "en": "Central Syria"
+  },
+  "coast": {
+    "ar": "الساحل",
+    "en": "The coast"
+  },
+  "river": {
+    "ar": "مدن الأنهار",
+    "en": "River cities"
+  },
+  "mountain": {
+    "ar": "الجبال",
+    "en": "The mountains"
+  },
+  "mains": {
+    "ar": "أطباق رئيسية",
+    "en": "Main dishes"
+  },
+  "salads": {
+    "ar": "سلطات",
+    "en": "Salads"
+  },
+  "street": {
+    "ar": "أكلات الشارع",
+    "en": "Street food"
+  },
+  "sweets": {
+    "ar": "حلويات ومخبوزات",
+    "en": "Sweets & baking"
+  },
+  "everyday": {
+    "ar": "الحياة اليومية",
+    "en": "Everyday life"
+  },
+  "craft": {
+    "ar": "حرف وفنون",
+    "en": "Craft & lettering"
+  },
+  "arts": {
+    "ar": "موسيقى ورقص",
+    "en": "Music & dance"
+  },
+  "highlights": {
+    "ar": "تفاصيل تستحق الانتباه",
+    "en": "Things to look out for"
+  },
+  "ingredients": {
+    "ar": "مكونات شائعة",
+    "en": "Common ingredients"
+  },
+  "didYouKnow": {
+    "ar": "هل تعلم؟",
+    "en": "Did you know?"
+  },
+  "source": {
+    "ar": "للقراءة والتوثيق",
+    "en": "Further reading & sources"
+  },
+  "photoCredits": {
+    "ar": "مصادر الصور",
+    "en": "Image credits"
+  },
+  "archival": {
+    "ar": "صورة أرشيفية",
+    "en": "Archival photograph"
+  },
+  "illustration": {
+    "ar": "رسم توضيحي",
+    "en": "Interpretive illustration"
+  },
+  "photoNote": {
+    "ar": "الصور توثّق وقت التقاطها؛ لا تصف الحالة الحالية أو إمكانية الوصول.",
+    "en": "Photographs document when they were taken; they do not establish current condition or access."
+  },
+  "foodNote": {
+    "ar": "المكونات أمثلة شائعة؛ تختلف الوصفات والصور بين البيوت والمناطق.",
+    "en": "Ingredients are common examples; recipes and presentation vary between homes and regions."
+  },
+  "back": {
+    "ar": "العودة للاستكشاف",
+    "en": "Back to exploring"
+  },
+  "favoritesTitle": {
+    "ar": "حكاياتك المفضلة",
+    "en": "Your favourite discoveries"
+  },
+  "favoritesIntro": {
+    "ar": "احتفظ بالأماكن والنكهات والحكايات التي أعجبتك، ثم عد إليها في أي وقت على هذا المتصفح.",
+    "en": "Keep the places, flavours, and stories you love, and return to them in this browser."
+  },
+  "emptyFavorites": {
+    "ar": "بداية حكايتك لم تُكتب بعد",
+    "en": "Your collection starts here"
+  },
+  "emptyFavoritesIntro": {
+    "ar": "اضغط على القلب بجانب أي مكان أو حكاية لتجدها هنا.",
+    "en": "Tap the heart beside any place or story to keep it here."
+  },
+  "localOnly": {
+    "ar": "محفوظة على هذا المتصفح فقط",
+    "en": "Saved only in this browser"
+  },
+  "quizTitle": {
+    "ar": "الفضول يستحق تحدياً",
+    "en": "Give your curiosity a challenge"
+  },
+  "quizIntro": {
+    "ar": "أربع جولات قصيرة. اختر موضوعك، وتعلّم شيئاً مع كل إجابة.",
+    "en": "Four short rounds. Choose a topic and learn something with each answer."
+  },
+  "questions": {
+    "ar": "٥ أسئلة",
+    "en": "5 questions"
+  },
+  "best": {
+    "ar": "أفضل نتيجة",
+    "en": "Best score"
+  },
+  "startQuiz": {
+    "ar": "ابدأ التحدي",
+    "en": "Start challenge"
+  },
+  "question": {
+    "ar": "السؤال",
+    "en": "Question"
+  },
+  "of": {
+    "ar": "من",
+    "en": "of"
+  },
+  "next": {
+    "ar": "السؤال التالي",
+    "en": "Next question"
+  },
+  "showResult": {
+    "ar": "شاهد النتيجة",
+    "en": "See results"
+  },
+  "correct": {
+    "ar": "إجابة صحيحة!",
+    "en": "Correct answer!"
+  },
+  "incorrect": {
+    "ar": "فرصة لتتعلم شيئاً جديداً",
+    "en": "A chance to learn something new"
+  },
+  "correctAnswer": {
+    "ar": "الإجابة الصحيحة",
+    "en": "Correct answer"
+  },
+  "resultTitle": {
+    "ar": "حكاية جديدة في رصيدك",
+    "en": "Another story to take with you"
+  },
+  "resultIntro": {
+    "ar": "لكل سؤال حكاية. استكشف موضوعاً آخر أو جرّب الجولة من جديد.",
+    "en": "Every question has a story. Explore another topic or try the round again."
+  },
+  "restart": {
+    "ar": "أعد التحدي",
+    "en": "Play again"
+  },
+  "allQuizzes": {
+    "ar": "جميع التحديات",
+    "en": "All challenges"
+  },
+  "endQuiz": {
+    "ar": "غادر التحدي",
+    "en": "Leave challenge"
+  },
+  "quizScore": {
+    "ar": "النتيجة",
+    "en": "Score"
+  },
+  "aboutTitle": {
+    "ar": "حكاية سوريا.fun",
+    "en": "The story of Syria.fun"
+  },
+  "aboutIntro": {
+    "ar": "مساحة مستقلة للتعرف إلى سوريا، بروح فضولية وودودة.",
+    "en": "An independent space to get to know Syria, with curiosity and a warm welcome."
+  },
+  "aboutMissionTitle": {
+    "ar": "نقترب من الثقافة، بتفاصيلها",
+    "en": "Culture, through its details"
+  },
+  "aboutMission": {
+    "ar": "سوريا.fun مشروع تعليمي وترفيهي مستقل يقدّم مدناً وأكلات وحرفاً وحكايات من سوريا. غايتنا تجربة ممتعة وسهلة، تحترم تنوع المجتمعات وتدعو إلى المعرفة والمشاركة.",
+    "en": "Syria.fun is an independent educational and entertainment project introducing Syrian places, food, crafts, and stories. Our aim is an enjoyable, accessible experience that respects varied communities and encourages discovery."
+  },
+  "aboutHowTitle": {
+    "ar": "استكشف بطريقتك",
+    "en": "Explore in your own way"
+  },
+  "aboutHow": {
+    "ar": "ابحث عن مكان، اقرأ حكاية، احفظ ما يعجبك، أو اختبر معلوماتك. يمكنك التبديل بين العربية والإنجليزية والمظهر الفاتح والداكن. لا تحتاج إلى حساب؛ تبقى تفضيلاتك على متصفحك.",
+    "en": "Search for a place, read a story, save a favourite, or test your knowledge. Switch between Arabic and English or light and dark themes. There is no account to create; preferences stay in your browser."
+  },
+  "aboutEditorialTitle": {
+    "ar": "محتوى يحترم المكان وأهله",
+    "en": "Respect for places and people"
+  },
+  "aboutEditorial": {
+    "ar": "نستخدم صياغة أصلية ومصادر للقراءة، وصوراً موثقة أو رسوماً واضحة الصفة. لا نستنتج الحالة الحالية للأماكن من صور قديمة. نرحب بتصحيحات المحتوى عبر مستودع المشروع على GitHub.",
+    "en": "We use original wording, further-reading sources, and verified photographs or clearly identified illustrations. Older photos do not establish a place's current condition. Content corrections are welcome through the project's GitHub repository."
+  },
+  "contribute": {
+    "ar": "شارك بتصحيح أو اقتراح على GitHub",
+    "en": "Suggest a correction on GitHub"
+  },
+  "privacyTitle": {
+    "ar": "خصوصيتك ببساطة",
+    "en": "Privacy, simply"
+  },
+  "privacy": {
+    "ar": "لا حسابات، ولا تحليلات أو تتبع مضاف من المشروع. يحفظ المتصفح اللغة والمظهر والمفضلة وأفضل نتائج التحديات فقط. استضافة GitHub Pages تخضع لسياسة خصوصية GitHub.",
+    "en": "No accounts, analytics, or project-added tracking. Your browser stores only language, theme, favorites, and quiz best scores. GitHub Pages hosting is subject to GitHub's privacy policy."
+  },
+  "githubPrivacy": {
+    "ar": "سياسة خصوصية GitHub",
+    "en": "GitHub privacy statement"
+  },
+  "footerIntro": {
+    "ar": "مدن ونكهات وحكايات. مساحة صغيرة لفضول كبير.",
+    "en": "Places, flavours, and stories. A little space for a lot of curiosity."
+  },
+  "footerExplore": {
+    "ar": "أكمل رحلتك",
+    "en": "Keep exploring"
+  },
+  "footerProject": {
+    "ar": "المشروع",
+    "en": "The project"
+  },
+  "footerNote": {
+    "ar": "صُنع بروح المشاركة · مشروع ثقافي مستقل",
+    "en": "Made with a spirit of sharing · An independent cultural project"
+  },
+  "noScript": {
+    "ar": "المحتوى والروابط متاحة. لتفعيل البحث والتحديات والمفضلة والتبديل إلى الإنجليزية، يرجى تشغيل JavaScript.",
+    "en": "Content and links are available. Enable JavaScript for search, quizzes, favorites, and English switching."
+  },
+  "loadError": {
+    "ar": "تعذّر تحميل الأدوات التفاعلية. يمكنك متابعة قراءة الصفحات أو إعادة المحاولة.",
+    "en": "Interactive tools could not load. You can still read the pages or try again."
+  },
+  "retry": {
+    "ar": "إعادة المحاولة",
+    "en": "Try again"
+  },
+  "storageError": {
+    "ar": "تعذّر الحفظ على المتصفح؛ تبقى اختياراتك متاحة خلال هذه الصفحة.",
+    "en": "Browser storage is unavailable; your selections remain available on this page."
+  },
+  "notFoundTitle": {
+    "ar": "هذه الحكاية ليست هنا",
+    "en": "This story isn't here"
+  },
+  "notFoundIntro": {
+    "ar": "قد يكون الرابط قد تغير. عد إلى الصفحة الرئيسية لتبدأ حكاية جديدة.",
+    "en": "The link may have changed. Return home to begin a new discovery."
+  },
+  "creditsTitle": {
+    "ar": "الصور، وأصحاب الحكاية",
+    "en": "The images, and the people behind them"
+  },
+  "creditsIntro": {
+    "ar": "صور مرخصة محفوظة محلياً. صُغّرت وحُوّلت إلى WebP، وقد تُقصّ في العرض. تبقى الأعمال ذات ترخيص المشاركة بالمثل خاضعة له.",
+    "en": "Licensed photographs stored locally, resized and converted to WebP; display crops may apply. Share-alike images and their derivatives retain their respective licenses."
+  },
+  "creditsIllustrations": {
+    "ar": "الرسوم التوضيحية أصلية للمشروع، وليست صوراً توثيقية. الخطوط Cairo وInter مرخصة وفق SIL Open Font License 1.1.",
+    "en": "Illustrations are original project artwork, rather than documentary images. Cairo and Inter are distributed under the SIL Open Font License 1.1."
+  },
+  "heroAlt": {
+    "ar": "باحة الجامع الأموي في دمشق، صورة من عام ٢٠٠٨",
+    "en": "The courtyard of the Umayyad Mosque in Damascus, photographed in 2008"
+  },
+  "aboutAlt": {
+    "ar": "رسم توضيحي لأقواس وبيوت",
+    "en": "An interpretive illustration of arches and houses"
+  },
+  "dateUnknown": {
+    "ar": "تاريخ الالتقاط غير موثق",
+    "en": "Capture date not recorded"
+  },
+  "imageUnavailable": {
+    "ar": "الصورة غير متاحة. رسم توضيحي بديل.",
+    "en": "Image unavailable. Illustration fallback."
+  }
+}
