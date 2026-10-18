@@ -1,0 +1,45 @@
+/* Uses inherited typography and the parent page's light/dark palette. */
+.sf-api-widget {
+  box-sizing: border-box;
+  display: block;
+  max-width: 48rem;
+  margin-block: 1rem;
+  padding: clamp(1rem, 2vw, 1.5rem);
+  border: 1px solid var(--sf-api-border, rgba(128, 128, 128, .35));
+  border-radius: 1rem;
+  background: var(--sf-api-background, transparent);
+  color: inherit;
+  font: inherit;
+}
+.sf-api-widget * { box-sizing: border-box; }
+.sf-api-title { font-size: 1.2rem; margin: 0 0 .35rem; }
+.sf-api-intro { margin: 0 0 .6rem; }
+.sf-api-note, .sf-api-credit, .sf-api-status { font-size: .87rem; opacity: .85; }
+.sf-api-note { margin: .4rem 0; }
+.sf-api-button {
+  font: inherit;
+  color: var(--sf-api-button-fg, #fff);
+  background: var(--sf-api-button-bg, #165b45);
+  border: 0;
+  border-radius: .65rem;
+  padding: .65rem 1rem;
+  margin-block: .4rem;
+  cursor: pointer;
+}
+.sf-api-button:disabled { opacity: .6; cursor: wait; }
+.sf-api-button:focus-visible, .sf-api-credit:focus-visible {
+  outline: 3px solid var(--sf-api-focus, #449cce);
+  outline-offset: 3px;
+}
+.sf-api-output { display: grid; gap: .75rem; grid-template-columns: repeat(auto-fit, minmax(min(100%, 16rem), 1fr)); }
+.sf-api-result {
+  padding: .9rem;
+  border-radius: .65rem;
+  border: 1px solid var(--sf-api-border, rgba(128, 128, 128, .35));
+}
+.sf-api-result h4 { margin: 0 0 .65rem; font-size: 1rem; }
+.sf-api-metrics { margin: 0; }
+.sf-api-metric { display: flex; gap: 1rem; justify-content: space-between; margin-block: .3rem; }
+.sf-api-metric dt { opacity: .85; }
+.sf-api-metric dd { margin: 0; font-weight: 600; text-align: end; }
+.sf-api-credit { display: inline-block; margin-block-start: .8rem; color: inherit; }
